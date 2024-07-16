@@ -1,0 +1,27 @@
+# 编译输出
+build/
+bin/
+
+# IDE和编辑器文件
+.vscode/
+.idea/
+
+# 依赖库
+lib/
+
+# 生成的可执行文件
+*.exe
+*.out
+
+# 临时文件
+*.tmp
+*.bak
+
+# 日志文件
+*.log
+
+# macOS特定文件
+.DS_Store
+
+# 缓存文件
+*.cache
