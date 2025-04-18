@@ -1,0 +1,17 @@
+hellohellohellohello
+argc: 1
+argv: [/home/boran/Program/Cpp/bin/testFileStream,]
+Thu Dec  5 16:20:42 2024
+
+---------------------------------
+hello
+argc: 1
+argv: [/home/boran/Program/Cpp/bin/testFileStream,]
+Thu Dec  5 16:21:37 2024
+
+---------------------------------
+hello
+argc: 1
+argv: [/home/boran/Program/Cpp/bin/testFileStream,]
+Thu Dec  5 16:25:22 2024
+

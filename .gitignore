@@ -19,7 +19,7 @@ lib/
 
 # 日志文件
 *.log
-
+*log*
 # macOS特定文件
 .DS_Store
 

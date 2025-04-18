@@ -1,0 +1,96 @@
+---------------------------------
+hello
+argc: 1
+argv: [./bin/testFileStream,]
+Thu Dec  5 16:22:24 2024
+
+---------------------------------
+hello
+argc: 1
+argv: [./bin/testFileStream,]
+Thu Dec  5 16:22:25 2024
+
+---------------------------------
+hello
+argc: 2
+argv: [./bin/testFileStream,111,]
+Thu Dec  5 16:23:00 2024
+
+---------------------------------
+hello
+argc: 2
+argv: [./bin/testFileStream,111,]
+Thu Dec  5 16:23:02 2024
+
+---------------------------------
+hello
+argc: 2
+argv: [./bin/testFileStream,aaadassdasdadasdasd,]
+Thu Dec  5 16:23:06 2024
+
+---------------------------------
+hello
+argc: 2
+argv: [./bin/testFileStream,aaadassdasdadasdasd,]
+Thu Dec  5 16:25:26 2024
+
+---------------------------------
+hello
+argc: 2
+argv: [./bin/testFileStream,aaadassdasdadasdasd,]
+Thu Dec  5 16:25:26 2024
+
+---------------------------------
+hello
+argc: 2
+argv: [./bin/testFileStream,aaadassdasdadasdasd,]
+Thu Dec  5 16:25:28 2024
+
+---------------------------------
+hello
+argc: 2
+argv: [./bin/testFileStream,aaadassdasdadasdasd,]
+Thu Dec  5 16:25:29 2024
+
+---------------------------------
+hello
+argc: 1
+argv: [./bin/testFileStream,]
+Thu Dec  5 16:25:31 2024
+
+---------------------------------
+hello
+argc: 1
+argv: [./bin/testFileStream,]
+Thu Dec  5 16:25:32 2024
+
+---------------------------------
+hello
+argc: 1
+argv: [./bin/testFileStream,]
+Thu Dec  5 16:25:33 2024
+
+---------------------------------
+hello
+argc: 1
+argv: [./bin/testFileStream,]
+Thu Dec  5 16:25:33 2024
+
+---------------------------------
+hello
+argc: 1
+argv: [./bin/testFileStream,]
+Thu Dec  5 16:25:34 2024
+
+---------------------------------
+hello
+argc: 1
+argv: [./bin/testFileStream,]
+Thu Dec  5 16:25:34 2024
+
+---------------------------------
+hello
+argc: 4
+argv: [./bin/testFileStream,a,a,aa,]
+Thu Dec  5 16:25:40 2024
+

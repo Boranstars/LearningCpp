@@ -16,6 +16,8 @@ class Base {
   private:
 };
 
+
+
 class Derive : public Base {
   public:
     Derive() = default;
